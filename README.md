@@ -14,7 +14,10 @@ First start the code server
 python3 server.py
 ```
 
-Then enable the Minetest mod to make HTTP calls
+Then enable the Minetest mod to make HTTP calls.
+
+Then you can run `python3 cli.py` to send commands directly or you can somehow integrate it into your code
+editor to more easily send code blocks.
 
 ## Security
 
